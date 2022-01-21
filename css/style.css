@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header{
+    background-color: rgb(17, 42, 66);
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 70px;
+       
+}
